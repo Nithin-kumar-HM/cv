@@ -1,0 +1,156 @@
+body{
+color:#40514E;
+margin: 0;
+text-align: center;
+font-family: 'Merriweather',serif;
+
+}
+p{
+  line-height: 2;
+}
+hr{
+  border:dotted #EAF6F6 6px;
+  border-bottom:none;
+  width:5%;
+  margin: 100px auto;
+}
+h1{
+  margin: 100px auto 0 auto;
+font-family: 'Sacramento', cursive;
+
+font-size: 5.62rem;
+color: #66BFBF;
+
+
+}
+h2{
+  font-family: 'Montserrat', sans-serif ;
+
+   font-size:2.5rem;
+  color: #66BFBF;
+  padding-bottom: 10px;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+color:#11999E;
+}
+
+
+
+
+.top-container{
+  background-color:#b2ebf2;
+  margin-bottom: 0;
+  position: relative;
+  padding-top: 100px;
+
+
+
+
+}
+.top-cloud{
+        position:absolute;
+        right:300px;
+        top: 35px;
+}
+.bottom-cloud{
+       margin-bottom: 0px;
+       position: absolute;
+       left: 250px;
+
+}
+.mountain{
+
+
+}
+.middle-container
+{
+        margin:50px 0;
+  }
+  .skill-row{
+    width:50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+  line-height:2;
+  }
+  .intro{
+    width:30%;
+    margin:auto auto auto auto;
+  }
+.business{
+  width:25%;
+  margin-right: 30px;
+  float:left;
+
+}
+.chicken{
+  width:25%;
+  float:right;
+  margin-right: 30px;
+}
+/*.code-description{
+  clear: left;
+}
+
+.chilli-skill-description{
+  clear:right;  */
+
+
+.message{
+    width:40%;
+    margin:40px auto 60px;
+
+}
+
+
+
+
+  .bottom-container{
+
+  background-color: #66BFBF;
+  padding:50px 0 20px;
+    }
+    .footstep{
+
+    }
+
+
+.btn{
+ display: inline-block;
+ border:1px solid #7D99CA;
+ color: #ffffff;
+ border-radius: 8px;
+ -webkit-border-radius: 8;
+ -moz-border-radius: 8;
+ font-family: 'Montserrat', sans-serif ;
+text-decoration: none;
+ width: auto;
+ height: auto;
+ font-size: 16px;
+ padding: 10px 20px 10px 20px;
+ text-shadow: 0px 1px 0px #fff;
+ background-image: linear-gradient(to top, #11cdd4, #11999e);
+ background-color: #11cdd4;
+}
+.btn:hover{
+ border:1px solid #30e3cd;
+ color: #fff;
+ box-shadow: 0 0 0 0 #000;
+ -moz-box-shadow: 0 0 0 0 #000;
+ -webkit-box-shadow: 0 0 0 0 #000;
+ background-color:red ; /* #2bc4ad*/
+}
+a{
+  color: #11999E;
+  font-family: 'mantserrat',serif;
+  margin:0 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: #eaf6f6;
+}
+.copyright{
+  color: #eaf6f6;
+  font-size: 0.75rem;
+  padding:20px 0;
+}
